@@ -1,0 +1,17 @@
+{
+  "name": "confardu",
+  "version": "0.0.1",
+  "description": "Just pretty ardupilot configurator",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ardupilot",
+    "arduplane",
+    "arducopter",
+    "configurator"
+  ],
+  "author": "Vitari Shunitsu",
+  "license": "ISC"
+}

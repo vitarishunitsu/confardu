@@ -1,0 +1,2 @@
+# confardu
+Pretty ardupilot configurator
